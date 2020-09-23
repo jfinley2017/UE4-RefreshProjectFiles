@@ -2,7 +2,7 @@
 
 :: Setup, change these as necessary
 set PathToEngine=C:\Unreal\EngineInstalls\UE_4.24
-set ProjectName=CoopGame
+set ProjectName=MyProjectName
 :: End Setup
 
 @echo Removing .vs folder
