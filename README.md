@@ -12,4 +12,4 @@ Simple script to refresh project files in UE4 in one click.
   <img src=https://cdn.discordapp.com/attachments/730491220643545138/758359020557172796/unknown.png />
 </p>
 
-3.) Run the script. Your Intermediate, Binaries and .vs folders should be wiped and a new sln should be created. Note that I am not deleting the Intermediate and Binaries folder roots, as some use symbolic link to faster drives to improve compile time and removing the root directory of those folders in their entirety would destroy that link. The folders themselves should be empty however.
+3.) Run the script. Your Intermediate, Binaries and .vs folders should be wiped and a new sln should be created. Note that I am not deleting the Intermediate and Binaries folder roots, as some symbolic link these directories to faster drives to improve compile time and removing them in their entirety would destroy that link. The folders themselves should be empty however.
