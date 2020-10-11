@@ -2,7 +2,7 @@
 
 :: Setup, change these as necessary
 set PathToEngine=C:\Unreal\EngineInstalls\UE_4.24
-set ProjectName=Optimization
+set ProjectName=MyProject
 :: End Setup
 
 if exist %~dp0\.vs (
